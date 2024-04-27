@@ -1,1 +1,5 @@
-
+ac_client.exe+0017E0A8,EC = Health
+ac_client.exe+0018AC00,12C = pistol ammo
+ac_client.exe+0018AC00,13C = sniper ammo
+ac_client.exe+0017E0A8,144 = gernades
+ac_client.exe+0017E0A8,134 = shotgun ammo
